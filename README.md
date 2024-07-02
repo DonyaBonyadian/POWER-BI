@@ -191,4 +191,4 @@ Deployment and Scheduling: Once this report is created, deploy this into the Pow
 -	https://www.kaggle.com/code/madhushreesannigrahi/jenks-natural-breaks-and-k-means-clustering/data 
 
 
-![image](https://github.com/DonyaBonyadian/POWER-BI/assets/145790346/26ac5a52-195f-4a07-8623-90270d210754)
+![image]
